@@ -3,4 +3,4 @@ You've been rick rolled.
 
 Star and send others.
 
-![](rickroll.gif)
+<img src="rickroll.gif" width=500></img>
