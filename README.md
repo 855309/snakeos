@@ -1,2 +1,6 @@
-# snakeos
-An operating system made with python.
+# :)
+You've been rick rolled.
+
+Star and send others.
+
+![](rickroll.gif)
